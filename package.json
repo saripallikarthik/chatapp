@@ -1,0 +1,16 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "ws project to learn ws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error  : No test specified' && exit 1",
+	"start": "node index.js"
+  },
+  "author": "kats",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^4.0.0",
+    "mongodb": "^3.4.0"
+  }
+}
